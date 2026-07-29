@@ -42,3 +42,4 @@ I ship AI agent tools, macOS apps, and side projects that scratch my own itches.
 
 [![GitHub](https://img.shields.io/badge/GitHub-a692570-181717?style=flat&logo=github&logoColor=white)](https://github.com/a692570)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-absheksharma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absheksharma/)
+
