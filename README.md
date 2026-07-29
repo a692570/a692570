@@ -1,6 +1,6 @@
 # Hey, I'm Abhishek 👋
 
-**PMM at [Telnyx](https://telnyx.com)** building tools at the intersection of voice AI, developer experience, and content.
+**Senior Tech PMM at [Telnyx](https://telnyx.com)** building tools at the intersection of voice AI, developer experience, and content.
 
 I ship AI agent tools, macOS apps, and side projects that scratch my own itches. Most of what I build sits between "marketing person who codes" and "developer who cares about the story."
 
@@ -14,10 +14,11 @@ I ship AI agent tools, macOS apps, and side projects that scratch my own itches.
 
 ---
 
-### Stats
+### Contribution Graph
 
-<img src="https://github-readme-stats.vercel.app/api?username=a692570&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a692570&layout=compact&hide_border=true&theme=dark" alt="Top Languages" height="165" />
+<img src="https://ghchart.rshah.org/a692570" alt="Abhishek's GitHub Contributions" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=a692570&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 ---
 
@@ -42,4 +43,3 @@ I ship AI agent tools, macOS apps, and side projects that scratch my own itches.
 
 [![GitHub](https://img.shields.io/badge/GitHub-a692570-181717?style=flat&logo=github&logoColor=white)](https://github.com/a692570)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-absheksharma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absheksharma/)
-
