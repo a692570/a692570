@@ -29,7 +29,7 @@ I ship AI agent tools, macOS apps, and side projects that scratch my own itches.
 | [Bolo](https://github.com/a692570/bolo) | Voice dictation for macOS. Hold Right Option anywhere to dictate. Powered by Telnyx AI. |
 | [Podcast Transcriber](https://github.com/a692570/podcast-transcriber) | Transcribe any podcast episode. CLI + MCP server. Gemini, Whisper API, or local Whisper. |
 | [Hookscore](https://github.com/a692570/hookscore) | Score your hook. Predict if people will read your content using LLM surprise as a brain engagement proxy. |
-| [Deckforge](https://github.com/a692570/deckforge) | AI presentation skill. Generate polished HTML slide decks with any coding agent. |
+| [DeckMason](https://github.com/a692570/deckmason) | AI presentation skill for coding agents. 31 themes, color theory validation, PPTX/PDF export. Works with Claude Code, Cursor, Codex CLI. |
 | [Design Extractor](https://github.com/a692570/design-extractor) | Chrome extension that reverse-engineers any website's design system into a markdown file you can feed to an AI. |
 | [LLM Price Chart](https://github.com/a692570/llm-price-chart) | LLM Flagship API Pricing Tracker (Jan 2025 to present). |
 | [HourlyChime](https://github.com/a692570/HourlyChime) | Minimalist macOS menu bar app for hourly chimes and Pomodoro timer. |
