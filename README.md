@@ -36,6 +36,7 @@ I ship AI agent tools, macOS apps, and side projects that scratch my own itches.
 | [Triply](https://github.com/a692570/triply) | AI-powered travel brief. Flights, hotels, transport, itinerary in one command. |
 | [Gauge](https://github.com/a692570/gauge) | Context window used and remaining on line 2. Claude Code stdin fix. |
 | [Nudge](https://github.com/a692570/nudge) | Installable dreamlining protocol for agentic coding assistants. Based on Tim Ferriss's 4HWW. |
+| [awesome-product-marketing](https://github.com/a692570/awesome-product-marketing) | Curated, opinionated resource list for PMMs at high-growth and developer-first companies. |
 
 ---
 
